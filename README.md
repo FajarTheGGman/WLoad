@@ -14,3 +14,6 @@ Tutor ?
 4.sh WLoad.sh
 
 Done !
+
+# Buy Me Some Coffe :)
+![donate](https://raw.githubusercontent.com/FajarTheGGman/F-Tools/master/.images/donate.jpeg)
